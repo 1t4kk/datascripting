@@ -156,7 +156,7 @@
     "Notification": 0
   }, 
   {
-"route": "45",
+   "route": "45",
     "direction": 0,
     "NextStop": 13,
     "Chi": "夏遼灣體育中心",
@@ -167,6 +167,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
    "route": "45",
     "direction": 0,
     "NextStop": 14,
@@ -178,6 +179,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
    "route": "45",
     "direction": 0,
     "NextStop": 15,
@@ -237,6 +239,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
     "route": "45",
     "direction": 0,
     "NextStop": 4,
@@ -248,7 +251,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
-   {
+  {
     "route": "45",
     "direction": 0,
     "NextStop": 5,
@@ -272,8 +275,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
-
-  {  {
+  {
     "route": "45",
     "direction": 0,
     "NextStop": 7,
@@ -285,6 +287,7 @@
     "TimePosition": 0,
     "Notification": 1
   },
+  {
     "route": "45",
     "direction": 0,
     "NextStop": 8,
@@ -296,6 +299,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
     "route": "45",
     "direction": 0,
     "NextStop": 9,
@@ -355,6 +359,7 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
     "route": "45",
     "direction": 1,
     "NextStop": 14,
