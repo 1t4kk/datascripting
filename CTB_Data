@@ -38,12 +38,16 @@
  {
     "number": 3,
     "route": "S52",
-    "destZ": "逸東邨",
-    "destY": "飛機維修區",
-    "maxPZ": "2",
+    "destZ": "飛機維修區",
+    "destY": "逸東邨",
+    "maxPZ": "1",
     "priceZ1": "4.0",
     "halfpriceZ1": "2.0",
-    "priceZ2": "3.0",
-    "halfpriceZ2": "1.5"
+    "maxPY": "2",
+    "priceY1": "4.0",
+    "halfpriceY1": "2.0",
+    "priceY1": "3.0",
+    "halfpriceY1": "1.5",
+
   }
 ]
