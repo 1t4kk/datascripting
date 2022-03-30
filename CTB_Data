@@ -59,14 +59,14 @@
     "priceZ1": "33.0",
     "halfpriceZ1": "16.5",
     "priceZ2": "26.0",
-     "halfpriceZ2": "13.0",
-    "priceZ2": "8.0",
-     "halfpriceZ2": "4.0",
+    "halfpriceZ2": "13.0",
+    "priceZ3": "8.0",
+    "halfpriceZ3": "4.0",
     "maxPY": "2",
     "priceY1": "4.0",
     "halfpriceY1": "2.0"
     "priceY2": "8.5",
-    "halfpriceY2": "8.5"
+    "halfpriceY2": "4.3"
   },
     "number": 4,
     "route": "A29P",
