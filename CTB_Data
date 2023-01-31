@@ -49,5 +49,17 @@
     "priceY1": "4.0",
     "halfpriceY1": "2.0"
 
+  },
+   {
+    "number": 4,
+    "route": "S1",
+    "destZ": "東涌站",
+    "destY": "機場（客運大樓）",
+    "maxPZ": "1",
+    "priceZ1": "3.5",
+    "halfpriceZ1": "1.8",
+    "maxPY": "1",
+    "priceY1": "3.5",
+    "halfpriceY1": "1.8"
   }
 ]
